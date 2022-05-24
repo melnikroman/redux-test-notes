@@ -1,0 +1,19 @@
+.row button {
+    width: auto;
+    border-radius: 0;
+}
+
+.row .MuiAutocomplete-root {
+    width: 300px;
+    padding-right: 0;
+}
+
+.row .MuiOutlinedInput-root {
+    border-radius: 0;
+}
+
+.row button {
+    color: #FFFFFF;
+}
+
+
