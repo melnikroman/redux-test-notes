@@ -24,7 +24,7 @@ const Notes = () => {
             {
                 notes.length > 0
                     ? notes.map((note) => (
-                            <div className="note">
+                            <div className="note" key={note.id}>
                                 <div className="title">{note.title}</div>
                                 <i className={`bi bi-star${note.favourite ? '-fill' : ''}`}
                                    onClick={() => dispatch(likeNote(note.id))}></i>
