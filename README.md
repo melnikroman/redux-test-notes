@@ -7,9 +7,8 @@ Work schedule: remote working
 
 ## Contacts
 
-+7 (777) 941-24-18 WhatsApp \
-email: roman.melnik1@icloud.com \
-skype: mmmmelm@gmail.com
+WhatsApp: +7 (777) 941-24-18 \
+email: roman.melnik1@icloud.com
 
 ## Work experience 9 years
 
@@ -83,3 +82,13 @@ on angular.
 #### Full-stack developer
 System development with Sharepoint and C#, ASP.NET MVC, AngularJS , Javascript, HTML/CSS, MS SQL,
 PowerShell, XSLT, tfs
+
+
+## About
+
+Frontend developer (9 years) with commercial development experience (11+ years) and React (5+ years). Also have experience with Angular (4 years) and Vue.js (1 year).
+
+Worked in teams of various sizes till 15 members, also have an experience of single developing, also handling backend tasks using Node.js and C#.
+
+Microsoft certificated. \
+Git: https://github.com/melnikroman
