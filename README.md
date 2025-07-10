@@ -14,7 +14,7 @@ email: roman.melnik1@icloud.com
 
 ### May 2022 — currently
 
-_2 years 10 months_
+_3 years 2 months_
 
 #### Cirrus
 
