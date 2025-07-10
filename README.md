@@ -1,6 +1,5 @@
 ## Senior React Developer
 
-400 000 ₽ in hand \
 Specializations: Programmer, developer \
 Employment: full time \
 Work schedule: remote working
